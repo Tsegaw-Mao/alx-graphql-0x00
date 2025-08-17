@@ -1,5 +1,4 @@
 const fs = require("fs");
-const fetch = require("node-fetch");
 
 const url = "https://rickandmortyapi.com/graphql";
 const ids = [1, 2, 3, 4];

@@ -2,8 +2,6 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 
 const url = "https://rickandmortyapi.com/graphql";
-
-// Character IDs we want
 const ids = [1, 2, 3, 4];
 
 async function fetchCharacter(id) {

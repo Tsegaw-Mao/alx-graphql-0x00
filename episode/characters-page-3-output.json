@@ -1,0 +1,7 @@
+{
+  "errors": [
+    {
+      "message": "GraphQL Error: Document does not contain any operations"
+    }
+  ]
+}

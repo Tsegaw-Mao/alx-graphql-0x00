@@ -1,12 +1,12 @@
 {
   "data": {
-    "char2": {
-      "id": "2",
-      "name": "Morty Smith",
+    "character": {
+      "id": "4",
+      "name": "Beth Smith",
       "status": "Alive",
       "species": "Human",
       "type": "",
-      "gender": "Male"
+      "gender": "Female"
     }
   }
 }
